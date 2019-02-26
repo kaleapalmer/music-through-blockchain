@@ -20,6 +20,7 @@
 ## Team Workflow
 We are using a branching technique
 
+changes to the ux
 
 ## Team Norms
 We will work together as team with respect, patience and clear communication. If any contention occurs at anytime during the project, we will discuss what our issue is in a non accusatory way, and work to solve the problem. 
